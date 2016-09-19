@@ -1,0 +1,28 @@
+### THE SCHIZOBOT LICENSE
+
+A.G. (c) 2016. All Rights Reserved.
+
+Commercial Use
+This software and derivatives may NOT be used for commercial purposes.
+Distribution
+You may NOT distribute this software.
+Modification
+This software may NOT be modified.
+Patent Use
+This license explicitly states that it does NOT grant you any rights in the patents of contributors.
+Private Use
+You may NOT use and modify the software without distributing it.
+Disclose Source
+Source code must be made available when distributing the software.
+License and Copyright Notice
+Include a copy of the license and copyright notice with the code.
+Network Use is Distribution
+Users who interact with the software via network are given the right to receive a copy of the corresponding source code.
+Same License
+Modifications must be released under the same license when distributing the software. In some cases a similar or related license may be used.
+State Changes
+Indicate changes made to the code.
+Hold Liable
+Software is provided without warranty and the software author/license owner cannot be held liable for damages.
+Trademark Use
+This license explicitly states that it does NOT grant you trademark rights, even though licenses without such a statement probably do not grant you any implicit trademark rights.
