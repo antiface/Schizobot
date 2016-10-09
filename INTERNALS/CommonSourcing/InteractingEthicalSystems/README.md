@@ -1,5 +1,5 @@
 ### Schizobot / INTERNALS / Common-Sourcing / Interacting Ethical Systems
-* import [SmallStreamsTheory] (https://github.com/antiface/Schizobot/tree/master/INTERNALS/VitalityBase/SmallStreamsTheory)
+* import [SmallStreamsTheory] (https://github.com/antiface/Schizobot/tree/master/INTERNALS/VitalityBase/SmallStreamsTheory);
 * "Ethical Systems" here are seen primarily as "Value Systems" attached to "Decision-Making Processes";
 * That is, one has Values and one makes Decisions based on Values;
 * In the Interactive model, 2 or more individuals, or decision-makers, have potentially divergent value systems, therefore they must "negotiate" directly or indirectly when making decisions TOGETHER;
