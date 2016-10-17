@@ -8,4 +8,5 @@
 * The realm of what is "moral" or "ethical" is much subtler and much more complex than that, for often there are contradictions and paradoxes that come to be, where things CANNOT simply be represented in black and white terms;
 * For that is the true "moral question", i.e. it is never just a question of what is right vs. what is wrong, but is the critical, "moral-philosophic" treatment and study of the case-at-hand (which in our terms is always a unique special case event or phenomenon);
 * Therefore, the research problem/question of the construction of an "Artificial Conscience" must begin with a proper treatment of the moral-philosophic underpinnings of the questions of conscience, moral reasoning, moral judgment, judgment in general, etc.;
+* "Two key elements of an individual are the possibility of it observing its own mental processes, and of monitoring them according to his moral principles." (p. 21-22, Jacques Pitratauth, "Artificial Beings: The Conscience of a Conscious Machine");
 * [...]
