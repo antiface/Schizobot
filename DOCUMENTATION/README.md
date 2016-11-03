@@ -17,5 +17,5 @@ A.G. (c) 2016. ![A.G. (c) 2016. All Rights Reserved]
 * DOCUMENTATION KEY
   * SYMBOLS
     * STAY_TUNED ![STAY_TUNED] (https://historiotheque.files.wordpress.com/2016/11/ag_method_signature_stay_tuned_symbol_for_repos_03nov16a-11h16_50px_cropped.jpg)
-     * (MEANS THAT THE WORK WAS LEFT IN AN UNFINISHED STATE: i.e. "Stay tuned", "More to come", "Unfinished", "Work in progress", "Taking a break", "Coming back to this in a moment", "Busy", "We will return to this later", "incomplete", etc.)
+     * MEANS:=This work was left in an unfinished state: i.e. "Stay tuned", "More to come", "Unfinished", "Work in progress", "Taking a break", "Coming back to this in a moment", "Busy", "We will return to this later", "incomplete", etc.;
 * [...]
