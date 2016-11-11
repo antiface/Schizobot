@@ -5,7 +5,11 @@ The Stupidest System in The Universe: Schizobot v.1.0.0
 
 Art-Ops-In-A-Box Proof of Concept.
 
-
+### Schizobot / 00:UPGRADING THE SYSTEM
+ -- Managing system upgrades;
+ -- Config manager; easy as plug n play;
+ -- Like a bus matrix back in the day;
+ -- All-in-one, same with notifications, a design-board;
 Ambient Experimental Design by
 
 
