@@ -10,6 +10,10 @@ Art-Ops-In-A-Box Proof of Concept.
  -- Config manager; easy as plug n play;
  -- Like a bus matrix back in the day;
  -- All-in-one, same with notifications, a design-board;
+ 
+### ESSENTIALS: STREAMLINING REBOOTS/UPGRADES/PACKAGING SYSTEMS
+ -- Constructive Historiomics;
+ -- [...]
 Ambient Experimental Design by
 
 
