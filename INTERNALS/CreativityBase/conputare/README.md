@@ -1,2 +1,3 @@
 Schizobot / INTERNALS / Creativity Base / conputare
+* CONSTRUCTIVE HISTORIOMICS; WHAT IS A FIRST CONCEPT OF HISTORY?;
 * [...]
