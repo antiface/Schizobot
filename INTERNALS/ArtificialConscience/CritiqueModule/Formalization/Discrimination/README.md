@@ -1,0 +1,3 @@
+### Schizobot / INTERNALS / Artificial Conscience / Critique Module / Formalization / Discrimination
+* Duplicata are good, redundancy is good in a noisy mobile cognitive world;
+* ...
