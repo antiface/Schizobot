@@ -7,4 +7,5 @@
 * The Interactive Theory of Ethical Systems focuses on the increase in complexity when ethical systems interact;
 * Nota: A Company is essentially a value system that has been inscribed, i.e. it "acts on" a system of values, and so is treated as an Ethical System in this model;
 * Nota: A biological organism ALSO can be treated as an Ethical System in this model, i.e. it "acts on" a system of values, Survival-Value, etc.;
+* Actual SCHIZOBOTS, "DUELLING PSYCHOS", schizoid chatbots that generate increasingly interesting prose battles, similar to MC battles in hiphop; via "traumatize the flesh" methods, self-mortifying code, neurotrauma;
 * [...]
