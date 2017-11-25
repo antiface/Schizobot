@@ -1,0 +1,64 @@
+### Schizobot
+
+### INTERNALS
+- ArtificialConscience
+	- CritiqueModule
+		- Aesthesis
+			- AntiqueModerne
+			- NouveauKitsch
+		- Anaesthesis
+			- BeautifulSignals
+				- FAUX
+					- FauxFinishes
+						- FauxPlastique
+		- Discrimination
+		- Grotesque
+		- Formalization
+			- CodeGenres
+				- Novel-as-a-System
+				- TABULA
+			- Discrimination
+			- Judgment
+				- MoralTemperature
+			- Sensibility
+			- Understanding
+		- RefcardsSystem
+		- Reflection
+	- InhibitionModule
+		- InhibitionFunctions
+			- ArtificialDoubt
+			- ImpossibilityModule
+			- InterruptionScience
+		- Neurotrauma
+			- Dissimulatio
+			- LifeRoutines
+			- Ressentiment
+		- StrategicWasteManagement
+			- GarbageTasting
+	- NoiseFieldTheory
+	- SpiritOfPerfection
+	- TechnologizedEgo
+- CommonSourcing
+	- AntiCommons
+		- GIGO
+		- GossipModule
+	- Collabrium
+	- Historiomics
+		- Historiopathogenesis
+		- Historiotherapeusis
+		- MetaphysicOfArtMovements
+	- InteractingEthicalSystems
+- CreativityBase
+	- CONSTRAINTS
+	- conputare
+	- turbare
+- VitalityBase
+	- Hibernus
+		- HABITANCE
+		- MIGRANCE
+		- SURVIVANCE
+	- SignalScience
+		- EMOTUS
+	- SmallStreamsTheory
+		- Anticalculus
+		- Calculus
