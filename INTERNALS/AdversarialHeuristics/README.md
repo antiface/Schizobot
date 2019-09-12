@@ -2,7 +2,7 @@
 * Paranoid heuristics;
   * Persecutory delusions;
   * Delusions of grandeur;
-   * Messianic delusions;
+    * Messianic delusions;
 * Mental filtering;
   * Discounting the positive;
 * Personalization;
