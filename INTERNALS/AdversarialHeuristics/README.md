@@ -16,6 +16,7 @@
   * Feelings as facts;
 * Catastrophization; (maximization and minimization)
   * Apocalyptic scenarios;
+  * Dramatization;
 * Hasty generalizations (overgeneralization); (jumping to conclusions)
   * Jumping to conclusions on very little evidence; snap judgements;
 * Mind-reading; Fortune-telling;
