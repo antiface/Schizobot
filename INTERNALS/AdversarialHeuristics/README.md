@@ -1,6 +1,8 @@
 ### Schizobot / INTERNALS / Adversarial Heuristics
 * Paranoid heuristics;
   * Persecutory delusions;
+  * Delusions of grandeur;
+   * Messianic delusions;
 * Mental filtering;
   * Discounting the positive;
 * Personalization;
