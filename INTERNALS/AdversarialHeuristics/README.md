@@ -25,4 +25,5 @@
   * Survival mechanism of the reptilian brain;
 * Aversion to ambiguity; decision-making under uncertanty;
   * Fear of the unknown, averse to situations characterized by ambiguity or vagueness;
+* Crises of Belief; (compulsive doubt);
 * [...]
