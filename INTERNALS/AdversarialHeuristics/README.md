@@ -27,3 +27,9 @@
   * Fear of the unknown, averse to situations characterized by ambiguity or vagueness;
 * Crises of Belief; (compulsive doubt);
 * [...]
+
+2019-10-24 01:46:02
+* SEE ALSO: Ultra Paranoid Computing;
+* Adversarial Perturbations of Neural Networks;
+* Adversarial modules;
+* Computational aesthetics;
