@@ -32,4 +32,4 @@
 * SEE ALSO: Ultra Paranoid Computing;
 * Adversarial Perturbations of Neural Networks;
 * Adversarial modules;
-* Computational aesthetics;
+* Computational creativity;
