@@ -10,7 +10,7 @@
 import os
 import time
  
-os.chdir('/home/diane/Refcards')
+os.chdir('/Refcards')
  
 def writeNote(x):
 	with open(x, 'w') as outfile:
