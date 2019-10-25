@@ -2,7 +2,7 @@ import time
 import os
 import json
 
-os.chdir('/Refcards')
+os.chdir('C:\\Refcards')
 
 def mentalstatus():
 	x = {'time': time.strftime('%Y%m%d%H%M'), 'context': raw_input("What is happening?: "),
