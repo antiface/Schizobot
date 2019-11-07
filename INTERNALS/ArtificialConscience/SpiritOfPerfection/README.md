@@ -3,4 +3,6 @@
 - "...But, as it is a practical science, we also call it the art of perfection, since its purpose is to lead souls to Christian perfection; or the art of arts, since there is no art more excellent than the one of perfecting a soul in the noblest of lives, supernatural life..." - IDEM;
 * Desire for perfection;
 * Means of perfection;
+* "...union with God through charity...";
+* "...possessing purity of heart...";
 * [...]
