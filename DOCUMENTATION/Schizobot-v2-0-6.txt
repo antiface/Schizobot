@@ -1,0 +1,182 @@
+ Schizobot-v.2.0.6.zip
+
+    •  antiface-Schizobot-c9d8f32
+        ◦  00_UPGRADING_SYSTEM
+            ▪  README.md878 Bytes
+        ◦  DOCUMENTATION
+            ▪  README.md920 Bytes
+            ▪  schema.txt1.2 kB
+        ◦  INTERNALS
+            ▪  AdversarialHeuristics
+                •  Biases
+                    ◦  CognitiveBiases.txt33.5 kB
+                    ◦  ListOfFallacies.txt27.7 kB
+                    ◦  README.md89 Bytes
+                •  Disorganization
+                    ◦  README.md298 Bytes
+                •  Errors
+                    ◦  README.md91 Bytes
+                •  README.md1.2 kB
+                •  Ultraparanoia
+                    ◦  README.md414 Bytes
+            ▪  ArtificialConscience
+                •  CritiqueModule
+                    ◦  Aesthesis
+                        ▪  AntiqueModerne
+                            •  README.md106 Bytes
+                        ▪  BEAUTY
+                            •  README.md234 Bytes
+                        ▪  NouveauKitsch
+                            •  README.md105 Bytes
+                        ▪  README.md88 Bytes
+                    ◦  Anaesthesis
+                        ▪  BeautifulSignals
+                            •  FAUX
+                                ◦  FauxFinishes
+                                    ▪  FauxPlastique
+                                        •  README.md870 Bytes
+                                    ▪  README.md133 Bytes
+                                ◦  README.md117 Bytes
+                            •  README.md110 Bytes
+                        ▪  Discrimination
+                            •  README.md105 Bytes
+                        ▪  Grotesque
+                            •  README.md204 Bytes
+                        ▪  Perturbation
+                            •  README.md248 Bytes
+                        ▪  README.md90 Bytes
+                    ◦  Formalization
+                        ▪  CodeGenres
+                            •  Novel-as-a-System
+                                ◦  README.md293 Bytes
+                            •  README.md799 Bytes
+                            •  TABULA
+                                ◦  README.md111 Bytes
+                        ▪  Discrimination
+                            •  README.md183 Bytes
+                        ▪  FirstConcept.py42 Bytes
+                        ▪  FirstConceptOfHistory.py1.1 kB
+                        ▪  Judgment
+                            •  MoralTemperature
+                                ◦  README.md123 Bytes
+                            •  README.md181 Bytes
+                        ▪  Paranoia
+                            •  README.md1.0 kB
+                        ▪  README.md92 Bytes
+                        ▪  Sensibility
+                            •  README.md106 Bytes
+                        ▪  Understanding
+                            •  README.md404 Bytes
+                        ▪  WhatIsAConcept_v1.py15.0 kB
+                        ▪  WhatIsAConcept_v2.py13.5 kB
+                        ▪  WhatIsHistory.py1.1 kB
+                    ◦  README.md76 Bytes
+                    ◦  RefcardsSystem
+                        ▪  README.md163 Bytes
+                    ◦  Reflection
+                        ▪  README.md145 Bytes
+                •  InhibitionModule
+                    ◦  InhibitionFunctions
+                        ▪  ArtificialDoubt
+                            •  README.md251 Bytes
+                        ▪  ImpossibilityModule
+                            •  README.md727 Bytes
+                        ▪  InterruptionScience
+                            •  README.md123 Bytes
+                        ▪  README.md215 Bytes
+                    ◦  Neurotrauma
+                        ▪  Dissimulatio
+                            •  README.md107 Bytes
+                        ▪  LifeRoutines
+                            •  README.md204 Bytes
+                        ▪  Paranoia
+                            •  README.md737 Bytes
+                        ▪  README.md340 Bytes
+                        ▪  Ressentiment
+                            •  README.md107 Bytes
+                    ◦  README.md78 Bytes
+                    ◦  StrategicWasteManagement
+                        ▪  GarbageTasting
+                            •  README.md333 Bytes
+                        ▪  README.md240 Bytes
+                •  NoiseFieldTheory
+                    ◦  README.md1.3 kB
+                •  README.md1.9 kB
+                •  SpiritOfPerfection
+                    ◦  README.md614 Bytes
+                •  TechnologizedEgo
+                    ◦  README.md166 Bytes
+            ▪  CommonSourcing
+                •  Angst
+                    ◦  README.md56 Bytes
+                •  AntiCommons
+                    ◦  GIGO
+                        ▪  README.md272 Bytes
+                    ◦  GossipModule
+                        ▪  README.md213 Bytes
+                    ◦  README.md67 Bytes
+                    ◦  Supernatural
+                        ▪  README.md265 Bytes
+                •  Collabrium
+                    ◦  README.md342 Bytes
+                •  CulturalArtifacts
+                    ◦  README.md288 Bytes
+                •  Historiomics
+                    ◦  Historiopathogenesis
+                        ▪  README.md412 Bytes
+                    ◦  Historiotherapeusis
+                        ▪  README.md89 Bytes
+                    ◦  MetaphysicOfArtMovements
+                        ▪  README.md97 Bytes
+                    ◦  README.md202 Bytes
+                •  InteractingEthicalSystems
+                    ◦  README.md1.4 kB
+                •  MoralTemperature
+                    ◦  MoralTempStruct.c109 Bytes
+                    ◦  README.md189 Bytes
+                    ◦  moraltemp.py314 Bytes
+                    ◦  moraltemp2014.py4.4 kB
+                    ◦  project_notes_script.py719 Bytes
+                •  README.md338 Bytes
+                •  SocialCognition
+                    ◦  README.md1.8 kB
+            ▪  CreativityBase
+                •  CONSTRAINTS
+                    ◦  README.md96 Bytes
+                •  Combinatorics
+                    ◦  README.md613 Bytes
+                •  README.md351 Bytes
+                •  conputare
+                    ◦  README.md356 Bytes
+                •  turbare
+                    ◦  README.md295 Bytes
+            ▪  README.md937 Bytes
+            ▪  VitalityBase
+                •  Hibernus
+                    ◦  HABITANCE
+                        ▪  README.md73 Bytes
+                    ◦  MIGRANCE
+                        ▪  README.md221 Bytes
+                    ◦  README.md297 Bytes
+                    ◦  SURVIVANCE
+                        ▪  README.md74 Bytes
+                •  LOG
+                    ◦  README.md255 Bytes
+                    ◦  processes
+                        ▪  README.md123 Bytes
+                •  README.md359 Bytes
+                •  SignalScience
+                    ◦  EMOTUS
+                        ▪  README.md247 Bytes
+                    ◦  README.md365 Bytes
+                •  SmallStreamsTheory
+                    ◦  Anticalculus
+                        ▪  NoMethods
+                            •  README.md134 Bytes
+                        ▪  README.md709 Bytes
+                    ◦  Calculus
+                        ▪  README.md315 Bytes
+                    ◦  README.md73 Bytes
+        ◦  LICENSE.md358 Bytes
+        ◦  README.md787 Bytes
+        ◦  WARNING.md
