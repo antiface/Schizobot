@@ -1,2 +1,2 @@
-## Schizobot / INTERNALS / Adversarial Heuristics / ULtraparanoia / Delusions / Schadenfreude Intitiative
+## Schizobot / INTERNALS / Adversarial Heuristics / Ultraparanoia / Delusions / Schadenfreude Intitiative
 * [...]
