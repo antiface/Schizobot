@@ -11,4 +11,6 @@
 * Often there no optimal solution, or else it's impossible, or not feasible, to find one;
 * Being a natural-born disaster-recovery expert; Has plans for almost any kind of potential threat one can think of;
 * "Everyone is potentially under opposition control."; ([Moscow Rules](https://redteams.net/redteaming/2013/the-moscow-rules));
+* SEE: [PERTURBATION](https://github.com/antiface/Schizobot/tree/master/INTERNALS/ArtificialConscience/CritiqueModule/Anaesthesis/Perturbation);
+* SEE ALSO: [turbare](https://github.com/antiface/Schizobot/tree/master/INTERNALS/CreativityBase/turbare);
 * [...]
