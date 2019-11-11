@@ -10,4 +10,5 @@
 * When leaving the house to do groceries is a massively complex logistical problem with no optimal solution;
 * Often there no optimal solution, or else it's impossible, or not feasible, to find one;
 * Being a natural-born disaster-recovery expert; Has plans for almost any kind of potential threat one can think of;
+* "Everyone is potentially under opposition control."; ([Moscow Rules](https://redteams.net/redteaming/2013/the-moscow-rules));
 * [...]
