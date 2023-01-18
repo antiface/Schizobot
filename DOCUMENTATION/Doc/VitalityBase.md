@@ -1,5 +1,7 @@
 ### Schizobot / DOCUMENTATION / Doc / VitalityBase.md
 * CONSTRAINTS
+  * Limits
+  * Needs
 * Compassion
 * Hibernus
 * HistoryCompression
