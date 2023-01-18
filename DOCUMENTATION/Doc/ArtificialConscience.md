@@ -10,8 +10,14 @@
     * Grotesque
     * Perturbation
   * Formalization
-  * RefcardsSystem
-  * Reflection
+    * CodeGenres
+    * Discrimination
+    * Judgment
+    * Paranoia
+    * Sensibility
+    * Understanding
+* RefcardsSystem
+* Reflection
 * InhibitionModule
   * InhibitionFunctions
   * Neurotrauma
