@@ -5,7 +5,6 @@
   * Formalization
   * RefcardsSystem
   * Reflection
-  * 
 * InhibitionModule
  * InhibitionFunctions
  * Neurotrauma
