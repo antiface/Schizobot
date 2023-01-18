@@ -6,6 +6,7 @@
     * NouveauKitsch
   * Anaesthesis
     * BeautifulSignals
+      * FAUX
     * Discrimination
     * Grotesque
     * Perturbation
