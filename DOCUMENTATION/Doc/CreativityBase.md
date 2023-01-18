@@ -2,4 +2,6 @@
 * CONSTRAINTS
 * Combinatorics
 * conputare
+  * Generation
+  * ProblemSolving
 * turbare
