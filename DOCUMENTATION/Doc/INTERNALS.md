@@ -1,4 +1,4 @@
-###Schizobot / DOCUMENTATION / Doc / INTERNALS.md
+### Schizobot / DOCUMENTATION / Doc / INTERNALS.md
 * AUX
 * AdversarialHeuristics
 * ArtificialConscience
