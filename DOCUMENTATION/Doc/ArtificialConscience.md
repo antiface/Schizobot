@@ -34,6 +34,7 @@
     * Paranoia
     * Ressentiment
   * StrategicWasteManagement
+    * GarbageTasting
 * Mindfulness
 * NoiseFieldTheory
 * SpiritOfPerfection
