@@ -16,6 +16,7 @@
       * TABULA
     * Discrimination
     * Judgment
+      * MoralTemperature
     * Paranoia
     * Sensibility
     * Understanding
