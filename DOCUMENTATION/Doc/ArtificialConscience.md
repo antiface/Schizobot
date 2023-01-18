@@ -5,6 +5,10 @@
     * BEAUTY
     * NouveauKitsch
   * Anaesthesis
+    * BeautifulSignals
+    * Discrimination
+    * Grotesque
+    * Perturbation
   * Formalization
   * RefcardsSystem
   * Reflection
