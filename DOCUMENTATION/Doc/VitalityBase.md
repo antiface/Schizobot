@@ -9,6 +9,8 @@
   * SURVIVANCE
 * HistoryCompression
 * LOG
+  * memory
+  * processes
 * NoveltySeeking
 * SignalScience
 * SmallStreamsTheory
