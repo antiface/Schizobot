@@ -6,9 +6,9 @@
   * RefcardsSystem
   * Reflection
 * InhibitionModule
- * InhibitionFunctions
- * Neurotrauma
- * StrategicWasteManagement
+  * InhibitionFunctions
+  * Neurotrauma
+  * StrategicWasteManagement
 * Mindfulness
 * NoiseFieldTheory
 * SpiritOfPerfection
