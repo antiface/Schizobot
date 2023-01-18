@@ -13,4 +13,7 @@
   * processes
 * NoveltySeeking
 * SignalScience
+  * ALARM
+  * EMOTUS
+  * INTERCOM
 * SmallStreamsTheory
