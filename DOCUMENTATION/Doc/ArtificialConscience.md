@@ -1,6 +1,9 @@
 ### Schizobot / DOCUMENTATION / Doc / ArtificialConscience.md
 * CritiqueModule
   * Aesthesis
+    * AntiqueModerne
+    * BEAUTY
+    * NouveauKitsch
   * Anaesthesis
   * Formalization
   * RefcardsSystem
