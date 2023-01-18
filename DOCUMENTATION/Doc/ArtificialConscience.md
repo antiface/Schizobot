@@ -11,6 +11,8 @@
     * Perturbation
   * Formalization
     * CodeGenres
+      * Novel-as-a-System
+      * TABULA
     * Discrimination
     * Judgment
     * Paranoia
