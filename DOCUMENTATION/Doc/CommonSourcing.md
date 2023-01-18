@@ -4,6 +4,9 @@
 * Collabrium
 * CulturalArtifacts
 * Historiomics
+   * Historiopathogenesis
+   * Historiotherapeusis
+   * MetaphysicOfArtMovements
 * InteractingEthicalSystems
 * MoralTemperature
 * SocialCognition
