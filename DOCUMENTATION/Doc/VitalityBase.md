@@ -4,6 +4,9 @@
   * Needs
 * Compassion
 * Hibernus
+  * HABITANCE
+  * MIGRANCE
+  * SURVIVANCE
 * HistoryCompression
 * LOG
 * NoveltySeeking
