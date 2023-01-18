@@ -29,6 +29,10 @@
     * InterruptionScience
     * TERMINUS
   * Neurotrauma
+    * Dissimulatio
+    * LifeRoutines
+    * Paranoia
+    * Ressentiment
   * StrategicWasteManagement
 * Mindfulness
 * NoiseFieldTheory
