@@ -24,6 +24,10 @@
 * Reflection
 * InhibitionModule
   * InhibitionFunctions
+    * ArtificialDoubt
+    * ImpossibilityModule
+    * InterruptionScience
+    * TERMINUS
   * Neurotrauma
   * StrategicWasteManagement
 * Mindfulness
