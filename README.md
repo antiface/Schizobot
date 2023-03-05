@@ -12,7 +12,7 @@ The Stupidest System in The Universe: Schizobot v.2.0.5
 Art-Ops-In-A-Box Proof of Concept.
 
 
-Ambient Experimental Design by
+Ambient Experimental Design by A.G. (c) 2023. All Rights Reserved.
 
 
 * Essentially, the Schizobot Repository is a Blueprint for an artificial intelligence to train on, to create a superintelligent AI, thus bringing the technological singularity NEARER;
