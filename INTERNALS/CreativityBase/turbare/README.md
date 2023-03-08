@@ -6,4 +6,5 @@
 * Artificial intelligence developing mental disorders;
 * Ultraparanoid artificial intelligence, gone haywire;
 * The ethics of dealing with artificial intelligence mental illness in a humane way;
+* Schizoid bot with formal thought disorder / disorganized thoughts;
 * [...]
