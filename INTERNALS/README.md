@@ -1,6 +1,10 @@
 ### Schizobot
 
-The Stupidest System in The Universe: Schizobot v.1.0.0
+The Stupidest System in The Universe: Schizobot v.2.0.5
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.157388.svg)](https://doi.org/10.5281/zenodo.157388)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.224014.svg)](https://doi.org/10.5281/zenodo.224014)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.226583.svg)](https://doi.org/10.5281/zenodo.226583)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3531597.svg)](https://doi.org/10.5281/zenodo.3531597)
 [![DOI](https://zenodo.org/badge/68600054.svg)](https://zenodo.org/badge/latestdoi/68600054)
 
 Art-Ops-In-A-Box Proof of Concept.
