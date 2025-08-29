@@ -1,6 +1,6 @@
 # Schizobot
 
-The Stupidest System in The Universe: Schizobot v.2.0.5
+The Stupidest System in The Universe: Schizobot v.2.0.7
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.157388.svg)](https://doi.org/10.5281/zenodo.157388)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.224014.svg)](https://doi.org/10.5281/zenodo.224014)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.226583.svg)](https://doi.org/10.5281/zenodo.226583)
